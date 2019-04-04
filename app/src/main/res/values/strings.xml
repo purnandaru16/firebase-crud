@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseTry</string>
+    <string name="title">Firebase Realtime Database</string>
+</resources>
